@@ -1,0 +1,15 @@
+<%@ Page Language="C#" %>
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta charset="utf-8" />
+    <title></title>    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <input id="Button1" type="button" value="button" style="color: #FF0000; background-color: #00FFFF;" /> 
+        <label id ="Lable1">Hello</label>
+    </form>
+</body>
+</html>
